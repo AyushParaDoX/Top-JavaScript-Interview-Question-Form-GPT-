@@ -1,0 +1,2 @@
+// All information is provide in the readme file with the syntax and also the well define defination and these all source are form to chatGpt so it is not possible that this readme is fully correct by the future updates in JavaScript the information will also change.
+// Thankyou very much for click on this page and supporting me❤️  
